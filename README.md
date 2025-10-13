@@ -1,5 +1,5 @@
-#👋 Olá! Eu sou a Julia Brito
-- 💻 Desenvolvedora apaixonada por tecnologia, design e inovação. <br>
+## 👋 Olá! Eu sou a Julia Brito
+- 💻 Desenvolvedora apaixonada por tecnologia, design e inovação.
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
 
 ---
@@ -7,17 +7,14 @@
 <div align="center">
 
   <!-- Stats principais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=britojulia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=britojulia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
   <!-- Linguagens mais usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britojulia&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britojulia&layout=compact&langs_count=7&theme=dracula"/>
   
-  <!-- Streak (dias consecutivos de contribuição) -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=britojulia&theme=tokyonight&hide_border=false"/>
 
 </div>
 
----
 
 <div align="center">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
