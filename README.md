@@ -1,9 +1,6 @@
-<h2 align="center">👋 Olá! Eu sou a Julia Brito</h2>
-
-<p align="center">
-  💻 Desenvolvedora apaixonada por tecnologia, design e inovação. <br>
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
-</p>
+#👋 Olá! Eu sou a Julia Brito
+- 💻 Desenvolvedora apaixonada por tecnologia, design e inovação. <br>
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
 
 ---
 
