@@ -1,7 +1,7 @@
 name: Generate Snake Animation
 
 on:
-  schedule: 
+  schedule:
     - cron: "0 0 * * *"  # Atualiza todo dia
   workflow_dispatch:
 
@@ -11,13 +11,18 @@ jobs:
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
-      - name: Gera a cobrinha
+
+      - name: Gera a cobrinha (tema escuro tokyonight)
         uses: Platane/snk@v3
         with:
           github_user_name: britojulia
-          outputs: dist/github-contribution-grid-snake.svg
-      - name: Publica a cobrinha
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+          snake_color: "#5A78F0"   
+          background: "#0D1117"   
+
+      - name: Publica no branch output
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
