@@ -1,15 +1,14 @@
 ## 👋 Olá! Eu sou a Julia Brito
+
 - 💻 Desenvolvedora apaixonada por tecnologia, design e inovação.
+
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
 
 ---
 
 <div align="center">
-
-  <!-- Stats principais -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=britojulia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <!-- Linguagens mais usadas -->
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britojulia&layout=compact&langs_count=7&theme=dracula"/>
   
 
@@ -45,6 +44,16 @@
 
 ---
 
+<img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=britojulia&bg_color=121212&co… 
+    height="300" 
+    alt="Activity Graph" 
+/>
+ 
+ 
+###
+ 
 <div align="center">
-  <img src="https://github.com/britojulia/britojulia/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+ 
+  <img src="https://github-profile-trophy.vercel.app?username=britojulia&theme=tokyonight&column=-1&… height="150" alt="trophy graph"  />
 </div>
