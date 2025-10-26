@@ -8,9 +8,7 @@
 
 
 - 💻 Desenvolvedora apaixonada por tecnologia, design e inovação.
-
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
-
 - 📌 Aqui você vai encontrar projetos, experimentos e estudos que refletem minha jornada e evolução no mundo da programação.
   
 ---
