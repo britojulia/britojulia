@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=👋+Olá%2C+eu+sou+a+Julia+Brito!;💻+Desenvolvimento+%26+Design; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=👋+Olá%2C+eu+sou+a+Julia+Brito!;💻+Desenvolvimento+%26+Design;" alt="Typing SVG" />
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="divider"/>
 </div>
 
