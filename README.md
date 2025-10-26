@@ -1,19 +1,14 @@
 ## 👋 Olá! Eu sou a Julia Brito
 
 - 💻 Desenvolvedora apaixonada por tecnologia, design e inovação.
-
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
 
 ---
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=britojulia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britojulia&layout=compact&langs_count=7&theme=dracula"/>
-  
-
 </div>
-
 
 ---
 
@@ -37,23 +32,19 @@
   <a href="mailto:juliabri1234@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/britojulia/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
 
 ---
 
-<img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=britojulia&bg_color=121212&co… 
-    height="300" 
-    alt="Activity Graph" 
-/>
- 
- 
-###
- 
 <div align="center">
- 
-  <img src="https://github-profile-trophy.vercel.app?username=britojulia&theme=tokyonight&column=-1&… height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=britojulia&bg_color=121212&color=bd93f9&line=ff79c6&point=50fa7b&area=true&hide_border=true" height="300" alt="Activity Graph"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=britojulia&theme=tokyonight&no-frame=true&row=1&column=7" height="150" alt="trophy graph"/>
 </div>
