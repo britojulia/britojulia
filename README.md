@@ -1,21 +1,17 @@
 <div align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=👋+Olá%2C+eu+sou+a+Julia+Brito!;Desenv+&+Design;" alt="Typing SVG" />
- 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=👋+Olá%2C+eu+sou+a+Julia+Brito!;💻+Desenvolvimento+%26+Design; alt="Typing SVG" />
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="divider"/>
- 
 </div>
 
+- 💻 Desenvolvedora apaixonada por **tecnologia, design e inovação**.  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**.  
+- 📌 Aqui você vai encontrar **projetos, experimentos e estudos** que refletem minha jornada e evolução no mundo da programação.  
 
-- 💻 Desenvolvedora apaixonada por tecnologia, design e inovação.
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
-- 📌 Aqui você vai encontrar projetos, experimentos e estudos que refletem minha jornada e evolução no mundo da programação.
-  
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=britojulia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britojulia&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center"> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=britojulia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britojulia&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
 
 ---
